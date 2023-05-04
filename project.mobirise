@@ -773,6 +773,9 @@
             ".list": {
               "list-style-type": "none",
               "padding": "0"
+            },
+            ".copyright > p": {
+              "text-align": "center"
             }
           },
           "_name": "footer6",
