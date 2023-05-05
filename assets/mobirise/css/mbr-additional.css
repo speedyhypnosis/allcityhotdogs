@@ -1290,6 +1290,27 @@ a {
   background-color: transparent;
   margin-bottom: 0;
 }
+.cid-tDnEyf9Eqp {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffe161;
+}
+.cid-tDnEyf9Eqp .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-tDnEyf9Eqp form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-tDnEyf9Eqp form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-tDnEyf9Eqp form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
 .cid-tDaQIjU9lT {
   padding-top: 30px;
   padding-bottom: 30px;
