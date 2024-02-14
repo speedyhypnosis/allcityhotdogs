@@ -63,12 +63,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "All City Hotdogs Mobile Stand Seattle on Alki Beach in West Seattle, Washington",
+        "title": "All City Hotdogs - Gourmet Seattle Hot Dogs & Signature Dawgs on Alki Beach, WA",
         "meta_descr": "All City Hotdogs' iconic hot dog stand pairs signature Seattle dogs with sweeping Olympic and Puget Sound views from its famed Alki Beach location.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/alki-beach-all-city-hotdogs-west-seattle-gourmet-seattle-style-hot-dogs-d5-2024.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/all-city-hotdogs-west-seattle-alki-gourmet-seattle-style-hot-dawgs-sf1-2024.png"
       },
       "components": [
         {
